@@ -1,10 +1,10 @@
 # diarization-notebook
 
 Attached in this repository is a Python notebook that contains a quickstart tutorial on getting started with Deepgram. In it, you will:
-1. Install dependencies
-2. Upload any audio of your choice
-3. Use Deepgram to transcribe that audio and label its speakers
-4. Profit
+1. Install dependencies 😊
+2. Upload any audio of your choice 🔊
+3. Use Deepgram's AI to transcribe that audio and label its speakers 🤖
+4. Profit 💸
 
 Note that all the instructions and guidance needed to unertsand the notebook are located within the text and comments of the notebook itself.
 
