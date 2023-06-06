@@ -10,6 +10,6 @@ Note that all the instructions and guidance needed to unertsand the notebook are
 
 If you want to sign up for Deepgram to receive up to 45,000 minutes of transcription for free (without even having to put a credit card down!) check out [this link](https://dpgr.am/youtube)
 
-You can also consult the following video for a full tutorial: https://youtu.be/9iQcKJ9gnqw
+You can also consult the following video for a full tutorial and demo: https://youtu.be/9iQcKJ9gnqw
 
 <img width="562" alt="Screen Shot 2023-06-06 at 7 07 56 AM" src="https://github.com/deepgram-devs/diarization-notebook/assets/57232352/a515d954-0462-4a4b-b3c0-ed9680318cdb">
